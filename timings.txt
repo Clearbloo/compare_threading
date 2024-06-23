@@ -1,0 +1,8 @@
+Rust:
+cargo run  0.05s user 0.02s system 6% cpu 1.066 total
+
+Go:
+go run main.go  0.11s user 0.07s system 15% cpu 1.091 total
+
+Elixir:
+elixir lib/elixir_threads.ex  0.56s user 0.08s system 48% cpu 1.333 total
